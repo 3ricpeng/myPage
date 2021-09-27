@@ -1,6 +1,6 @@
 # A story about myself 
 
-[back to home](index.md)
+[back home](index.md)
 
 
 this is a short background story of who i am, and this story supposedly is not gonna make any sense and contains a lot of typos because i suck at grammer and i hate typing essays so from here on i will just copy lorem ipsum for the next couple of paragraph 
