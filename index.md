@@ -34,7 +34,6 @@ So far i have not taken a lot of CSE classes, but I have a rough idea of what i 
 - [ ] Travel in Europe 
 - [ ] Learn how to surf
 - [ ] Learn how to skateboard 
-- [ ] 
 
  
 # Link: 
