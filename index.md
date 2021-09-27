@@ -18,10 +18,7 @@ So far i have not taken a lot of CSE classes, but I have a rough idea of what i 
 # Ranking My Favorite Programming Languages
 1. Haskell 
     - Haskell is just one of those elegant programming language that one need to appreciate 
-
-> Here is an example of how power set is down in Haskell, ain't it beautiful? 
-
-```powerSet = filterM (const [True, False])```
+      - Here is an example of how power set is down in Haskell, ain't it beautiful? `powerSet = filterM (const [True, False])`
 
 2. Python 
    - Becasuse of the powerful library supports
