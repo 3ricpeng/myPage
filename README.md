@@ -2,5 +2,5 @@
 
 
 
-Click [here](index.md) to go to my site! 
+Click [here](https://3ricpeng.github.io/myPage/) to go to my site! 
 
