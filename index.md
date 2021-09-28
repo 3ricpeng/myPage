@@ -6,7 +6,7 @@ I was born and rasied in Taiwan, and moved to the United States at the age of 18
 So far i have not taken a lot of CSE classes, but I have a rough idea of what i want to do in the future, personally i am a big fan of front end, i like making beautiful website and making useful tools that people appreicats, so i think front end engineering will be the thing i want to do most. <br> 
 <br>
 
-# Things I Like To Do: 
+## Things I Like To Do ##
 - Cooking foods 
 - Baking cakes 
 - Drinking *(but not too much)*
@@ -15,7 +15,7 @@ So far i have not taken a lot of CSE classes, but I have a rough idea of what i 
 
 
 
-# Ranking My Favorite Programming Languages
+## Ranking My Favorite Programming Languages ##
 1. Haskell 
     - Haskell is just one of those elegant programming language that one need to appreciate 
       - Here is an example of how power set is down in Haskell, ain't it beautiful? `powerSet = filterM (const [True, False])`
@@ -27,7 +27,7 @@ So far i have not taken a lot of CSE classes, but I have a rough idea of what i 
 4. C Language 
    - well who doesn't appreaciate some old school beautiful c code 
 
-# My Bucket List 
+## My Bucket List ##
 - [x] Go to all 30 MLB statidums 
 - [x] Travel to NYC 
 - [ ] Road trip to every state 
@@ -36,7 +36,7 @@ So far i have not taken a lot of CSE classes, but I have a rough idea of what i 
 - [ ] Learn how to skateboard 
 
  
-# Link: 
+## Link ##
 
 [<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png">](https://www.linkedin.com/in/3ricpeng/)
 
